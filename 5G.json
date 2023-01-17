@@ -191,10 +191,10 @@
  {
    "FIELD1": 21,
    "Questions": " During 5G Standardization, which of the following is the SA (standalone) architecture developed in? SC",
-   "A": "A) Phase2",
-   "B": "B) Phase 1",
-   "C": "C) Phase 2",
-   "D": "D) Phase 1",
+   "A": "A) Phase1.2",
+   "B": "B) Phase 2.1",
+   "C": "C) Phase2.2",
+   "D": "D) Phase1.1",
    "Answer": "A"
  },
  {
