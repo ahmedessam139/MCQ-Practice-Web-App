@@ -1,0 +1,704 @@
+[
+ {
+   "FIELD1": 0,
+   "Questions": " _____is/are the main challenges in the 5G Era",
+   "A": "A)Ultra high throughput",
+   "B": "B)Ultralarge connection",
+   "C": "C)Ultralow latency",
+   "D": "D)All of them",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 1,
+   "Questions": "_____is/are the main goal/s to be achieved in 5G",
+   "A": "A) 1million connections per square Km mMTC",
+   "B": "B) 1ms ultra reliable low latency communication uRLLC",
+   "C": "C) 10Gbit/s enhanced mobile broadband eMBB",
+   "D": "D)All of them",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 2,
+   "Questions": " _____is required in VR and AI applications",
+   "A": "A)uRLLC",
+   "B": "B)mMTC",
+   "C": "C)eMBB",
+   "D": "D)None of them",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 3,
+   "Questions": " _____ is required in IoT applications",
+   "A": "A)uRLLC",
+   "B": "B)mMTC",
+   "C": "C)eMBB",
+   "D": "D)None of them",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 4,
+   "Questions": " Everything you see is virtual in_____",
+   "A": "A) Virtual Reality (VR)",
+   "B": "B) Augmented Reality (AR)",
+   "C": "C) Mixed Reality (MR)",
+   "D": "D) All of them",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 5,
+   "Questions": " You can see virtual messages over the real image in______",
+   "A": "A) Virtual Reality (VR)",
+   "B": "B) Augmented Reality (AR)",
+   "C": "C) Mixed Reality (MR)",
+   "D": "D) All of them",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 6,
+   "Questions": " You can’t distinguish between true and virtual image in______",
+   "A": "A) Virtual Reality (VR)",
+   "B": "B) Augmented Reality (AR)",
+   "C": "C) Mixed Reality (MR)",
+   "D": "D) All of them",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 7,
+   "Questions": " In PreVR (current) the Resolution, Color depth, Frame rate and The typical Bandwidth requirements are_____ respectively",
+   "A": "A)(1920*1920, 8, 90, 200Mbps)",
+   "B": "B)(1080*1200, 8, 90, 50Mbps )",
+   "C": "C)(3840*3840, 10, 120, 4Gbps)",
+   "D": "D) none of them",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 8,
+   "Questions": " In EntryLevel VR (In the next two years) the Resolution, Color depth, Frame rate and The typical Bandwidth requirements are_____ respectively",
+   "A": "A)(1920*1920, 8, 90, 200Mbps)",
+   "B": "B)(1080*1200, 8, 90, 50Mbps )",
+   "C": "C)(3840*3840, 10, 120, 4Gbps)",
+   "D": "D) none of them",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 9,
+   "Questions": " In AdvancedVR (in the next three to five years) the Resolution, Color depth, Frame rate and The typical Bandwidth requirements are_____ respectively",
+   "A": "A)(1920*1920, 8, 90, 200Mbps)",
+   "B": "B)(1080*1200, 8, 90, 50Mbps )",
+   "C": "C)(3840*3840, 10, 120, 4Gbps)",
+   "D": "D) none of them",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 10,
+   "Questions": " Which of the following is the main advantage of the using massive MIMO over traditional MIMO? SC",
+   "A": "A) Multiplexing gain",
+   "B": "B) Singlechannel array gain",
+   "C": "C) 3d beamforming gain",
+   "D": "D) Diversity gain",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 11,
+   "Questions": " Which of the following Terms refers to the base station in the radio access network in 5G?",
+   "A": "A) NodeB",
+   "B": "B) eNodeB",
+   "C": "C) gNodeB",
+   "D": "D) BTS",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 12,
+   "Questions": " Which of the following key technologies is used to improve data transmission reliability and reduce retransmission caused by data transmission errors, Thereby indirectly improving spectral efficiency? _SC",
+   "A": "A) FOFDMA",
+   "B": "B) Highorder modulation",
+   "C": "C) Channel coding",
+   "D": "D) Massive MIMO",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 13,
+   "Questions": " In the IMT2020 vision, which of the following is correct ratio of 5G service delay to the 4G service delay?",
+   "A": "A) 1/50",
+   "B": "B) 1/10",
+   "C": "C) 1/100",
+   "D": "D) 1/20",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 14,
+   "Questions": " WHICH OF THE FOLOLOWING ARE THE KEY FACTORY FOR OPERATORS TO SELECT NSA OR SANETWORKING? MC",
+   "A": "A) Inventory network devices",
+   "B": "B) Return on Investment",
+   "C": "C) Terminals",
+   "D": "D) Technology maturity",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 15,
+   "Questions": " Which of the following frequency bands is used by the Verizon 5F home?",
+   "A": "A) 3.5G Hz",
+   "B": "B) 28 Ghz",
+   "C": "C) 40 GHz",
+   "D": "D)2. 6 GHz",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 16,
+   "Questions": " Which of the following is the key 5G capability required by monitoring applications such as connected intelligent infusion in smart healthcare?",
+   "A": "A) Lowpower smallpacket transmission",
+   "B": "B) Wireless ultrabroadband access.",
+   "C": "C) Anytime, anywhere wireless",
+   "D": "D) Contiguous coverage",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 17,
+   "Questions": " What is minimal air interface latency required in the 5G URLLC application scenario in IMT2020 vision? SC",
+   "A": "A) 1 ms",
+   "B": "B) 10 ms",
+   "C": "C) 5 ms",
+   "D": "D) 100 ms",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 18,
+   "Questions": " Which of the Following Standards could potentially undermine global 5G unification and cause the industry chain to break? –SC",
+   "A": "A) IEEE",
+   "B": "B) 3GPP",
+   "C": "C) OTSA",
+   "D": "D) 3GPPs",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 19,
+   "Questions": " Which one of the following must be cloudified first to implement the couldbased network structure? –SC",
+   "A": "A) Core network",
+   "B": "B) Terminal",
+   "C": "C) RAN",
+   "D": "D) Bearer Network",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 20,
+   "Questions": " In which 3GPP release were the 5G standards first introduced? SC",
+   "A": "A) Release 15 .. Ok",
+   "B": "B) Release 16",
+   "C": "C) Release 10",
+   "D": "D) Release 8",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 21,
+   "Questions": " During 5G Standardization, which of the following is the SA (standalone) architecture developed in? SC",
+   "A": "A) Phase2",
+   "B": "B) Phase 1",
+   "C": "C) Phase 2",
+   "D": "D) Phase 1",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 22,
+   "Questions": " Which of the following statements is incorrect about uploading AR/VR teaching content to the cloud? SC",
+   "A": "A) AR/VR images and audios are efficiently encoded into audio and video streams in the client.",
+   "B": "B) The cloud computing capability is used to run, render display, and control AP Applications.",
+   "C": "C) Rendering with high requirements on latency is deployed close to user that service data does not need to be transmitted to the core network.",
+   "D": "D) The edge cloud deployment architecture is recommended to meet the low latency requirements of services.",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 23,
+   "Questions": " Which one of the following services belongs to URLLS application scenario? SC",
+   "A": "A) Automated driving",
+   "B": "B) Intelligent meter reading",
+   "C": "C) Intelligent parking",
+   "D": "D) AR/VR",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 24,
+   "Questions": " What diversity of connections can 5G deliver in the mMTC application scenario in IMT2020 Vision? –SC",
+   "A": "A) 100,000 Connections per square kilometer",
+   "B": "B) 1 million connections per square kilometer",
+   "C": "C) 10 million connections per square kilometer",
+   "D": "D) 10,000 connections per square kilometer",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 25,
+   "Questions": " Which of the following is not advantage of a thin client in the cloud X service?",
+   "A": "A) Easy deployment and management",
+   "B": "B) Efficient storage",
+   "C": "C) Mobile",
+   "D": "D) Low cost",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 26,
+   "Questions": " Which of the following smart healthcare applications projects is dependent on 5G networks? SC",
+   "A": "A) Remote surgery through a robot",
+   "B": "B) Medical care monitoring",
+   "C": "C) Patient Locating",
+   "D": "D) Infusion monitoring",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 27,
+   "Questions": " In an industrial internet, sensors are used to monitor the status. Which one of the following requirement in this case?",
+   "A": "A) Low delay",
+   "B": "B) Large bandwidth",
+   "C": "C) High reliability.",
+   "D": "D) Massive connections",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 28,
+   "Questions": " During 5G standardization, which of the following is the SA (standalone) architecture developed in?",
+   "A": "A) Phase 2",
+   "B": "B) Phase 1",
+   "C": "C) Phase 1",
+   "D": "D) Phase 2",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 29,
+   "Questions": " Which of the following is the terms refers to the base station in the radio network access in 5G? _SC",
+   "A": "A) NodeB",
+   "B": "B) eNodeB",
+   "C": "C) BTS",
+   "D": "D) gNodeB",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 30,
+   "Questions": " Which of the following TV definitions is equivalent to the definition of the pre VR full view 4K 2D content? SC",
+   "A": "A) 240p",
+   "B": "B) 1080p",
+   "C": "C) 480p",
+   "D": "D) 720p",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 31,
+   "Questions": " Which of the following has the highest requirement for the network bandwidth in B Scan?",
+   "A": "A) Ultrasonic imaging",
+   "B": "B) Operation control",
+   "C": "C) Realtime call",
+   "D": "D) Communication between doctors and patients",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 32,
+   "Questions": " Which of the following security features of the 5G can identify illegal attacks and reduce the impact of attacks? SC",
+   "A": "A) Availability",
+   "B": "B) Integrity",
+   "C": "C) Confidentiality",
+   "D": "D) Traceability.",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 33,
+   "Questions": " Which of the following is a solution for 5G to switch uplink transmission to the sub 3 GHz low frequency banD) Effectively compensating for insufficient uplink coverage of the C Band? _SC",
+   "A": "A) UL and DL decoupling",
+   "B": "B) Carrier aggregation",
+   "C": "C) Duplex technology",
+   "D": "D) Multiple access technique",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 34,
+   "Questions": " Which of the following is the mail requirement for 5G network performance for services such as smart buildings and smear lamps? SC",
+   "A": "A) Latency",
+   "B": "B) Rate",
+   "C": "C) Connections",
+   "D": "D) Mobility",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 35,
+   "Questions": " Which of the following is the most advanced aspect of the development phase of IoV?_SC",
+   "A": "A) Fully Automated parking",
+   "B": "B) Lase change assistance",
+   "C": "C) Automated driving urban areas",
+   "D": "D) Automatic driving in lanes",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 36,
+   "Questions": " Which of the following 5G security features, which one can be used to record operations for security audit? _SC",
+   "A": "A) Availability",
+   "B": "B) integrity",
+   "C": "C) Traceability",
+   "D": "D) confidentiality",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 37,
+   "Questions": " Which of the following is the recommended position for deploying the user data processing module for automated driving? _SC",
+   "A": "A) Edge cloud",
+   "B": "B) Regional Cloud",
+   "C": "C) Core cloud",
+   "D": "D) Access network",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 38,
+   "Questions": " Which one the following 5G terminals converts 5G signals into WiFi signals for WTTx services? _SC",
+   "A": "A) Router",
+   "B": "B) CPE",
+   "C": "C) Smartphone",
+   "D": "D) Mifi.",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 39,
+   "Questions": " Which of the following organizations defines 5G standards?",
+   "A": "A) 3GPP",
+   "B": "B) 3GPP2",
+   "C": "C) OTSA",
+   "D": "D) JEE",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 40,
+   "Questions": " Which of the following is a new service in the 5G era?",
+   "A": "A) SMS",
+   "B": "B) Highreliability and lowlatency services",
+   "C": "C) Mobile internet",
+   "D": "D) N8LoT",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 41,
+   "Questions": " Which of the following is the maximum round trip time (RTT) of 5GV2X?",
+   "A": "A) 10ms",
+   "B": "B) 5ms",
+   "C": "C) 20ms",
+   "D": "D) 50ms",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 42,
+   "Questions": " Which of the following is the 5G IoV alliance organization?",
+   "A": "A) OTSA",
+   "B": "B) X.lab",
+   "C": "C) 5GAA",
+   "D": "D) 3GPP",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 43,
+   "Questions": " Which following 5G scenario specification is predominately completed in the 3GPP R15 version",
+   "A": "A) mMTC",
+   "B": "B) uRLLC",
+   "C": "C) eMBB",
+   "D": "D) MBB",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 44,
+   "Questions": " What is the maximum throughput provided by 5G in the eMBB application scenario in IMT2020 vision?",
+   "A": "A) 10Gbps",
+   "B": "B) 100Mbps",
+   "C": "C) 1Gbps",
+   "D": "D) 100Gbps",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 45,
+   "Questions": " Which of the following is the key technology to enhance high altitude coverage 5G network?",
+   "A": "A) UL and decoupling",
+   "B": "B) fOFDMA",
+   "C": "C) 256QAM",
+   "D": "D) Massive MIMO",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 46,
+   "Questions": " Maximum cell bandwidth of a Sub6G cell is_______",
+   "A": "A) 400 MHz",
+   "B": "B) 20 MHz",
+   "C": "C) 100 MHz",
+   "D": "D) 300 MHz",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 47,
+   "Questions": " Maximum cell bandwidth of a millimetre wave cell is_____",
+   "A": "A) 400 MHz",
+   "B": "B) 20 MHz",
+   "C": "C) 100 MHz",
+   "D": "D) 300 MHz",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 48,
+   "Questions": "The C band has a coverage gap of______.",
+   "A": "A) 14.7 Db",
+   "B": "B) 13.7 dB",
+   "C": "C) 130.7 dB",
+   "D": "D) 140.7 dB",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 49,
+   "Questions": " The maximum modulation technology of the current protocol version in 5G is________.",
+   "A": "A) 16QAM",
+   "B": "B) 32QAM",
+   "C": "C) 256QAM",
+   "D": "D) 64QAM",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 50,
+   "Questions": " Each symbol of 256QAM can carry_____bits of information.",
+   "A": "A) 10",
+   "B": "B) 16",
+   "C": "C) 8",
+   "D": "D) 32",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 51,
+   "Questions": " ________Increase the number of antennas to achieve higher array gains and improve coverage.",
+   "A": "A)Array gain",
+   "B": "B)Beamforming gain",
+   "C": "C)Multiplexing gain",
+   "D": "D)Diversity gain",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 52,
+   "Questions": "__________Beamforming is enabled in both horizontal and vertical directions to improve coverage and number of users.",
+   "A": "A)Array gain",
+   "B": "B)Beamforming gain",
+   "C": "C)Multiplexing gain",
+   "D": "D)Diversity gain",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 53,
+   "Questions": " ______ A maximum of 16 data streams are supported, improving the system throughput. Spatial multiplexing to support more users.",
+   "A": "A)Array gain",
+   "B": "B)Beamforming gain",
+   "C": "C)Multiplexing gain",
+   "D": "D)Diversity gain",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 54,
+   "Questions": " ______is done by increasing the number of antennas to form more data space transmission paths, improving data transmission reliability.",
+   "A": "A)Array gain",
+   "B": "B)Beamforming gain",
+   "C": "C)Multiplexing gain",
+   "D": "D)Diversity gain",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 55,
+   "Questions": " To enhance the spectrum efficiency, massive MIMO technology is introduced in the 5G network, whose maximum number of antennas may reach 64T64R.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 56,
+   "Questions": " Cband is the main frequency band of 5G. Currently, a maximum of 100 MHz bandwidth can be deployed. Uplink and downlink imbalance can be resolved by the uplink and downlink decoupling feature.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 57,
+   "Questions": " The 5G network features high rate, low latency, and massive connections, and can better support vertical industry applications.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 58,
+   "Questions": " Based on the massive MIMO beamforming capability, 5G base stations can better support lowaltitude coverage.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 59,
+   "Questions": " The SA mode of 5G network favors aggressive operators on fast deployment of 5G services based on 4G network.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 60,
+   "Questions": " For intelligent grid service, power transmission and power generation will be the main application field for 5G.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 61,
+   "Questions": " Because of the high frequency band of millimeter wave, the penetration loss of it is very small.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 62,
+   "Questions": " mMTC can be supported by both NSA and SA mode.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 63,
+   "Questions": " In IoV scenarios, the DSRC technology provides better coverage than CV2X.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 64,
+   "Questions": " In the 5G Nr, the modulation mode is 256QM for the physical uplink control PUCCH.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 65,
+   "Questions": " In the 5G eMBB scenario, the LDPC code is used for control channel coding and the Polar Code is used for traffic channel coding.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 66,
+   "Questions": " In the initial phase of 5G network construction, operators predominantly provide data service for customers.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 67,
+   "Questions": " _____ is required in Intelligent Manufacturing and Connected car",
+   "A": "A)uRLLC",
+   "B": "B)mMTC",
+   "C": "C)eMBB",
+   "D": "D)None of them",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 68,
+   "Questions": "Open trail specification alliance (OTSA) predominantly prompts the release and application of 28 GHz spectrums.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 69,
+   "Questions": " In eMBB application scenarios, 5G significantly improved user experience for mobile broadband services?",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 70,
+   "Questions": " 5G technology uses licensed frequency bands. Therefore mobile operators can provide identity authentication and core signaling security.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 71,
+   "Questions": " NEVER FORGET  3GPP release 16 describes only the URLLC and mMTC scenarios.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 72,
+   "Questions": " Using 5G to implement AR and assist industrial operation guidance is typical eMBB scenario",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 73,
+   "Questions": " 3GPP Release 15 protocols are divided into three stage : non standalone (NSA) networking, late drop",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 74,
+   "Questions": " Sub3 GHz spectrum resources can be dynamically shared with 5G spectrums by using the cloud AIR technology",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 75,
+   "Questions": " 5G uses edge computing to offload traffic, guaranteeing low latency",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 76,
+   "Questions": " The 5G technology is a requirement for automated driving.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 77,
+   "Questions": " With the network slicing technology, operators can increase revnue and reduce expenditure, opening up more service scenarios.",
+   "A": "A)TRUE",
+   "B": "B)FALSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ }
+]

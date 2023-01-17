@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>MCQ Question</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+  
+  <div class="counter-label1" id="counter1"></div>
+  <div class="counter-label" id="counter"></div>
+  <div class="question-container" id="questionContainer">
+    <div id="question">Q</div>
+    <div class="answers-container">
+      <div class="answer">
+        <input type="checkbox" id="answerA">
+        <label for="answerA" id="labelA">A</label>
+      </div>
+      <div class="answer">
+        <input type="checkbox" id="answerB">
+        <label for="answerB" id="labelB">B</label>
+      </div>
+      <div class="answer">
+        <input type="checkbox" id="answerC">
+        <label for="answerC" id="labelC">C</label>
+      </div>
+      <div class="answer">
+        <input type="checkbox" id="answerD">
+        <label for="answerD" id="labelD">D</label>
+      </div>
+    </div>
+    <div class="button-container">
+      <button id="submit-button">Submit</button>
+      <div id="result"></div>
+    </div>
+  </div>
+  <div id="button-container">
+    <button id="qs-button">Fr1</button>
+    <button id="G-button">5G</button>
+  </div>
+  <script src="script.js"></script>
+
+</body>
+</html>
