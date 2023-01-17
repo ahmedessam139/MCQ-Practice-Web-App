@@ -1208,7 +1208,7 @@
  },
  {
    "FIELD1": 134,
-   "Questions": "What is TRUE about a PCH (paging Channel) in a GSM Network? What is the Uplink channel used by a Mobile to request for a Channel?",
+   "Questions": "What is the Uplink channel used by a Mobile to request for a Channel?",
    "A": "A) PCH",
    "B": "B) BCCH",
    "C": "C) RACH",
