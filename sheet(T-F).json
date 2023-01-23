@@ -1,0 +1,354 @@
+[
+ {
+   "Questions": "Deflecting Torque and Restoring Torque acting in same direction",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Total error is the difference between observed error and measured error",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "analogue instrument gives an output that varies in discrete steps",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "In the pointer scale indicator, Inserting a series resistance with RL increases the sensitivity",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "pointer scale indicator doesn't develop errors",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "pointer scale indicator take some time to produce the final reading",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "any diode can emits color",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "different voltage ranges do not affect on light color of leds",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "LED-s convert electric energy to heat",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "in common anode we collect all anodes and connect it to ground",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "now days we can see more than 7 leds in 7-segment display",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "is 7-segment display can display alphanumeric",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "is this law is correct Rseries =",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "A typical graphic display consists of 320 - 240, i.e. 76 800",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "The principle of pixel matrix multiplexing is based on time division multiplexing",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "The column voltages Vx switch between 0 and +VS/5",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "The minimum voltage to turn a pixel -on-, i.e. to emit or modulate light, is VS",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "In CCAR all the anodes are wired together in columns and all the cathodes in rows(f)",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "The required number of inputs/output bins in 8*8 dot matrix is 64",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "to turn on a led , the row must be pulled high and the column pulled down",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "CCAR and ACCR are the two common configuration of LED matrix display",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "One of the advantages of LED is that its temperature is high",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Incandescent lamps are less efficient than LED lamps",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "Fluorescent lamp fixtures are less costly than incandescent lamps",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "The big change in the incandescent bulb came with the invention of the tungsten filament",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "lcd&led are use the same methods of back lighting",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "the costast in led screen is much better LCD",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "the quality in led screen is much better than LCD",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "lcd is an abbreviation for",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "led screen use fluorescent lights in the backlight",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "li-fi is a technology for wireless communication between devices using light to transmit data andposition",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "li-fi uses ultra sonic waves as a transmission method",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "the Photodiode is used to codes the data",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Data transfer speed of li-fi is up to 1GP/s",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "one of the li-fi technology disadvantages is the coverage distance",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Persistence is the corresponding decay time to the Phosphorescence decay.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "Phosphorescence decay: In response to a pulse change in beam current the light emission fallsinstantaneously.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "A monochrome display is obtained with a non-storage CRT.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "In a raster-type display constant amplitude square deflection voltages are applied to both X and Yplates.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "In character generation A low frequency pulse waveform is applied to the modulator electrode.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "In color display CRT is coated with dots with four types of phosphor",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Input data for paperless recorder is stored initially in RAM.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "Questions": "For paperless recorder past data canot be retrieved.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "Questions": "Paperless recorder has a LED screen.",
+   "A": "A)TRUE",
+   "B": "B)FULSE",
+   "C": "",
+   "D": "",
+   "Answer": "B"
+ }
+]

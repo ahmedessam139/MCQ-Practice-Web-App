@@ -1,0 +1,353 @@
+[
+ {
+   "FIELD1": 0,
+   "Questions": "Observation errors occurs due to :",
+   "A": "A) Distance of the element from the observer",
+   "B": "B) Ambient lighting",
+   "C": "C) skill of the observer",
+   "D": "D) all",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 1,
+   "Questions": "......... is example of Digital Data presentation :",
+   "A": "A) Pointer scale",
+   "B": "B) chart recorder",
+   "C": "C) electro-luminescence",
+   "D": "D) laser printer",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 2,
+   "Questions": "Disadvantages of the pointer scale indicator :",
+   "A": "A) Can be used only for D.C measurements",
+   "B": "B) Cheap",
+   "C": "C) More costly",
+   "D": "D) a & c",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 3,
+   "Questions": "Inserting a parallel resistance with RL to the pointer scale indicator :",
+   "A": "A) increases the system sensitivity",
+   "B": "B) increase the range of measured value",
+   "C": "C) Do nothing",
+   "D": "D) decreases the system sensitivity",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 4,
+   "Questions": "in pointer scale, The delay before get the final reading because :",
+   "A": "A) The back e.m.f induced on the coil .",
+   "B": "B) The moment of inertia of the coil.",
+   "C": "C) a & b",
+   "D": "D) non of the above",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 5,
+   "Questions": "All of these affect the pointer scale sensitivity except :",
+   "A": "A) Cross-sectional area of the magnet",
+   "B": "B) Total Resistance of the system",
+   "C": "C) The spring stiffness",
+   "D": "D) number of turns of the coil",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 6,
+   "Questions": "CRT are used to create .......... displays.",
+   "A": "A) Large scale",
+   "B": "B) medium scale",
+   "C": "C) small scale",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 7,
+   "Questions": "Visual display unit is a combination of CRT display and a ..........",
+   "A": "A) Mouse",
+   "B": "B) keyboard",
+   "C": "C) monitor",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 8,
+   "Questions": "Electrons are emitted at the ........ and accelerated towards the ......",
+   "A": "A) Cathode",
+   "B": "B) Anode",
+   "C": "C) both a and b",
+   "D": "",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 9,
+   "Questions": "The number of electrons in the beam (beam current) can be adjusted by altering the ........potential",
+   "A": "A) cathode",
+   "B": "B) modulator",
+   "C": "C) screen",
+   "D": "",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 10,
+   "Questions": "In liquid crystal displays, the liquid crystal exhibits properties of",
+   "A": "A) Liquid",
+   "B": "B) Solids",
+   "C": "C) Gases",
+   "D": "D) Both (A) and (B)",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 11,
+   "Questions": "Which of the following displays has minimum power consumption",
+   "A": "A) Light emitting diode (LED)",
+   "B": "B) Liquid crystal display (LCD)",
+   "C": "C) Nixie tubes",
+   "D": "D) Fluorescent",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 12,
+   "Questions": "LCDs operate from a voltage ranges from",
+   "A": "A) 3 to 15V",
+   "B": "B) 10 to 15V",
+   "C": "C) 15 to 20",
+   "D": "D) 20 to 25",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 13,
+   "Questions": "LCDs operate from a frequency ranges from",
+   "A": "A) 10HZ to 60HZ",
+   "B": "B) 50HZ to 70HZ",
+   "C": "C) 30HZ to 60HZ",
+   "D": "D) none of the mentioned",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 14,
+   "Questions": "Which of the following displays has slowest switching speed",
+   "A": "A) LEDs",
+   "B": "B) LCD",
+   "C": "C) Nixie tubes",
+   "D": "D) Fluorescent",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 15,
+   "Questions": "Electro-optical effect is produced in ........",
+   "A": "A) LED",
+   "B": "B) LCD",
+   "C": "C) OFC",
+   "D": "D) none of the mentioned",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 16,
+   "Questions": "The direction of electric field in a LCD is determined by",
+   "A": "A) molecular orbital theory",
+   "B": "B) crystalline surface structure",
+   "C": "C) the molecule’s chemical structure",
+   "D": "D) none of the mentioned",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 17,
+   "Questions": "What is backplane in LCD?",
+   "A": "A) the ac voltage applied between segment and a common element is",
+   "B": "B) the dc voltage applied between segment and a common element is",
+   "C": "C) the amount of power consumed",
+   "D": "D) none of the mentioned",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 18,
+   "Questions": "the optical properties of liquid crystals depend on the direction of",
+   "A": "A) air",
+   "B": "B) solid",
+   "C": "C) water",
+   "D": "D) light",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 19,
+   "Questions": "the first lcds became commercially available in",
+   "A": "A) 1960s",
+   "B": "B) 1950s",
+   "C": "C) 1980s",
+   "D": "D) none of the mentioned",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 20,
+   "Questions": "which of the following liquid crystal layers are used in lcd's?",
+   "A": "A) heavy water",
+   "B": "B) nematic",
+   "C": "C) hydrosulphuric acid",
+   "D": "D) hydrochloric acid",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 21,
+   "Questions": "El display consist of a matrix of .......",
+   "A": "A) pixels",
+   "B": "B) electrodes",
+   "C": "C) cells",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 22,
+   "Questions": "What is the emitted color from doping copper with Zinc sulfide?",
+   "A": "A) Green",
+   "B": "B) Amber",
+   "C": "C) Blue",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 23,
+   "Questions": "As an example of Electroluminescent application .....",
+   "A": "A) Liquid crystal display",
+   "B": "B) Night lamps",
+   "C": "C) Plane runways",
+   "D": "D) All of the above",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 24,
+   "Questions": "In El display, the matrix of phosphor elements is sandwiched between .......",
+   "A": "A) Two dielectric layers",
+   "B": "B) Two conductive layers",
+   "C": "C) one conductive",
+   "D": "D) Layer and one dielectric layer",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 25,
+   "Questions": "The display is viewed through the ........",
+   "A": "A) glass substrate",
+   "B": "B) LCD panels",
+   "C": "C) ITO glass",
+   "D": "",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 26,
+   "Questions": "Monitor which is similar to LCD monitor, but has a phosphorescent film between layers, is ...",
+   "A": "A) plasma display",
+   "B": "B) electro luminescent display (ELD)",
+   "C": "C) paper-white display",
+   "D": "D) thin-film transistor",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 27,
+   "Questions": "Electroluminescent displays are flat screen like liquid crystal displays but have a ... operating voltage and .... power consumption",
+   "A": "A) higher, greater",
+   "B": "B) higher, less",
+   "C": "C) lower, greater",
+   "D": "D) lower, less",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 28,
+   "Questions": ".................. is an electromechanical device that records an electrical or mechanical input trend onto a piece of paper.",
+   "A": "A) LCD.",
+   "B": "B) Chart recorder.",
+   "C": "C) CRT.",
+   "D": "D) Paperless recorder.",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 29,
+   "Questions": "What are the primary formats of Chart recorders ?",
+   "A": "A) Circular chart recorder.",
+   "B": "B) Roll chart recorder.",
+   "C": "C) Strip chart recorder.",
+   "D": "D) a,b&c.",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 30,
+   "Questions": "elements: Amplifier sensitivity = 10^5 V/m, Pulley sensitivity = 0.3 m/rad, Displacement sensor sensitivity = 4 V/rad, D.C. motor sensitivity = 1 rad/V Find the recorder output range for an input voltage range of 0 to 5 V.",
+   "A": "A) 0 - 0.07499 m.",
+   "B": "B) 0 - 0.37499 m.",
+   "C": "C) 0.24399 - 0 m.",
+   "D": "D) None of the above.",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 31,
+   "Questions": "Paperless recorders have ..... displays",
+   "A": "A) 2",
+   "B": "B) 3",
+   "C": "C) 4",
+   "D": "D) 5",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 32,
+   "Questions": "Using paperless recorders we can record ... measured values and have ... maintenance requirements than chart recorders.",
+   "A": "A) 4, more",
+   "B": "B) 4, less",
+   "C": "C) 3,more",
+   "D": "D) 3,less",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 33,
+   "Questions": "What is basic component of laser printer ?",
+   "A": "A) Laser source b-Rotating mirror",
+   "B": "B) Corona Wire",
+   "C": "C) photoreceptor drum",
+   "D": "D) All of the above.",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 34,
+   "Questions": " That is a high voltage wire give a static charge to anything nearby , so it charges the photoreceptor drum with positive charge. a( corona wire.",
+   "A": "A) corona wire.",
+   "B": "B) fuser",
+   "C": "C) ink rollar",
+   "D": "D) toner dispense.",
+   "Answer": "A"
+ },
+ {
+   "FIELD1": 35,
+   "Questions": " the laser to make it draw the image of the page onto the photoreceptor drum.",
+   "A": "A) Fuser",
+   "B": "B) photoreceptor drum",
+   "C": "C) Toner dispense",
+   "D": "D) Ink Rollar",
+   "Answer": "B"
+ },
+ {
+   "FIELD1": 36,
+   "Questions": " Converts the page description into a bitmap which is stored in the printer's raster memory",
+   "A": "A) Photoreceptor drum.",
+   "B": "B) Corona Wire.",
+   "C": "C) Raster Image Processor.",
+   "D": "D) Ink Rollar.",
+   "Answer": "C"
+ },
+ {
+   "FIELD1": 37,
+   "Questions": "The advantages of Laser Printer",
+   "A": "A) High quality text printing.",
+   "B": "B) Silent printing.",
+   "C": "C) Printing is fast especially when printing in high volumes.",
+   "D": "D) All of the above.",
+   "Answer": "D"
+ },
+ {
+   "FIELD1": 38,
+   "Questions": "The Disadvantages of Laser Printer",
+   "A": "A) c & d.",
+   "B": "B) C&D",
+   "C": "C) Heavy and large",
+   "D": "D) Produce ozone and volatile organic.",
+   "Answer": "B"
+ }
+]

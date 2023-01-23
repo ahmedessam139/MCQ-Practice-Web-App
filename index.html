@@ -1,39 +1,53 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>MCQ Question</title>
-    <link rel="stylesheet" href="styles.css" />
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="script.js"></script>
-  </head>
 
-  <body>
-    <div class="counter-label1" id="counter1"></div>
-    <div class="counter-label" id="counter"></div>
-    <div class="question-container" id="questionContainer">
-      <div id="question">Q</div>
-      <div class="answers-container">
-        <div class="answer">
-          <input type="checkbox" id="answerA" />
-          <label for="answerA" id="labelA">A</label>
-        </div>
-        <div class="answer">
-          <input type="checkbox" id="answerB" />
-          <label for="answerB" id="labelB">B</label>
-        </div>
-        <div class="answer">
-          <input type="checkbox" id="answerC" />
-          <label for="answerC" id="labelC">C</label>
-        </div>
-        <div class="answer">
-          <input type="checkbox" id="answerD" />
-          <label for="answerD" id="labelD">D</label>
-        </div>
+<head>
+  <title>MCQ Question</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+  
+  </div>
+  <div class="counter-label1" id="counter1"></div>
+  <div class="counter-label" id="counter"></div>
+  <div class="question-container" id="questionContainer">
+    <div id="question">Q</div>
+    <div class="answers-container">
+      <div class="answer">
+        <input type="checkbox" id="answerA">
+        <label for="answerA" id="labelA">A</label>
       </div>
-      <div class="button-container">
-        <button id="submit-button">Submit</button>
-        <div id="result"></div>
+      <div class="answer">
+        <input type="checkbox" id="answerB">
+        <label for="answerB" id="labelB">B</label>
+      </div>
+      <div class="answer">
+        <input type="checkbox" id="answerC">
+        <label for="answerC" id="labelC">C</label>
+      </div>
+      <div class="answer">
+        <input type="checkbox" id="answerD">
+        <label for="answerD" id="labelD">D</label>
       </div>
     </div>
-  </body>
+    <div class="button-container">
+      <button id="submit-button">Submit</button>
+      <div id="result"></div>
+    </div>
+  </div>
+  <div class="dropdown-container">
+    <select class="dropdown-select">
+      <option value="" selected disabled>Choose File</option>
+      <option value="qs.json">qs</option>
+      <option value="sheet.json">sheet</option>
+      <option value="sheet(T-F).json">sheet(T-F)</option>
+    </select>
+  </div>
+  <button id="end-button">End and see Wrong Answers</button>
+  <script src="script.js"></script>
+
+</body>
+
 </html>

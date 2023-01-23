@@ -1,750 +1,750 @@
 [
-    {
-      "FIELD1": 0,
-      "Questions": "Liquid crystal displays (LCDs) are widely used in a range of electronic systems. Which of the following describes the construction of such a display?",
-      "A": "A)Two sheets of conducting material separated by a layer of insulating dielectriC)",
-      "B": "B)Two sheets of polarized glass with a thin layer of oily material sandwiched between them.",
-      "C": "C)a pn junction formed using materials such as gallium arsenide or gallium phosphide.",
-      "D": "D)None of the above.",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 1,
-      "Questions": "Active matrix display uses .......... as a subpixel controller.",
-      "A": "A)Chemical field-effect transistor",
-      "B": "B)Diffusion transistor",
-      "C": "C)Thin film transistor",
-      "D": "D)Spin transistor",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 2,
-      "Questions": "The optical properties of liquid crystals depend on the direction of",
-      "A": "A) Air",
-      "B": "B)Solid",
-      "C": "C)Light",
-      "D": "D)Water",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 3,
-      "Questions": "LCDs operate from a frequency ranges from",
-      "A": "A)10Hz to 60Hz",
-      "B": "B)50Hz to 70Hz",
-      "C": "C)30Hz to 60Hz",
-      "D": "D)None of the Mentioned",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 4,
-      "Questions": "LCDs operate from a voltage ranges from",
-      "A": "A) 3 to 15V",
-      "B": "B)10 to 15V",
-      "C": "C)10V",
-      "D": "D)5V",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 5,
-      "Questions": "By which properties, the orientation of molecules in a layer of liquid crystals can be changed?",
-      "A": "A)Magnetic field",
-      "B": "B)Electric field",
-      "C": "C)Electromagnetic field",
-      "D": "D)None of the Mentioned",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 6,
-      "Questions": "Disadvantage of LCD",
-      "A": "A)high cost",
-      "B": "B)Response time is very low",
-      "C": "C)Provide excellent contrast",
-      "D": "D)None of them",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 7,
-      "Questions": "The LCD show the rectangle as black area when there is no current.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 8,
-      "Questions": "Light can be polarizeD)",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 9,
-      "Questions": "The extent of the change in polarization depends on the intensity of an applied electric fielD)",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 10,
-      "Questions": "LCD has better image quality than LED)",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 11,
-      "Questions": "LED has a better life span than LCD)",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 12,
-      "Questions": "Passive matrix can create a greyscale of 16 color",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 13,
-      "Questions": "Active matrix display has less brightness and contrast than passive matrix display.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 14,
-      "Questions": "Color of the led depends on .......",
-      "A": "A)Fabrication materials",
-      "B": "B)Forward voltage",
-      "C": "C)Forward current",
-      "D": "D)Outer paint",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 15,
-      "Questions": "Which of the following materials canbe used to produce infrared LED?",
-      "A": "A) Si",
-      "B": "B)GaAsP",
-      "C": "C)GaP",
-      "D": "D)b and c",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 16,
-      "Questions": "The amount of light emitted from led isproportional to ......",
-      "A": "A)Forward voltage",
-      "B": "B)Forward Current",
-      "C": "C)Series Current",
-      "D": "D)All of the above",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 17,
-      "Questions": "Which of the following is Not trueregarding the 'Li-fi' network technology?",
-      "A": "A)It is faster than wi-fi",
-      "B": "B)It uses an LED bulb/Lamp",
-      "C": "C)It uses infrared waves",
-      "D": "D)It does not interfere with radio waves",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 18,
-      "Questions": "The Li-fi is more secure than Wi-Fibecause",
-      "A": "A)It's much faster",
-      "B": "B)light is blocked by the walls",
-      "C": "C)Coverage distance is lower than Wi-Fi",
-      "D": "D)All of the above",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 19,
-      "Questions": "OLED display is better than LEDbecause ......",
-      "A": "A)Consume much less power than LCDs",
-      "B": "B)They have high brightness",
-      "C": "C)Do not require any illuminating source",
-      "D": "D)All of the above",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 20,
-      "Questions": ".BCD input 1000 is fed to a 7 segmentdisplay through a BCD to 7 segmentdecoder/driver. The segments which will lit upare .......",
-      "A": "A)a, b, d",
-      "B": "B)a, b, c",
-      "C": "C)all",
-      "D": "D)a, b, g, c, d",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 21,
-      "Questions": "In Common Anode 7-Segment Display,When we want a segment to be 'on' weconnect it to ......",
-      "A": "A)'1' logiC",
-      "B": "B)'0' logic",
-      "C": "C)Can be '0' or '1'",
-      "D": "D)Short circuit.",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 22,
-      "Questions": "In laser printing operation, during the charging process, does the photosensitive is charged with – 600v?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 23,
-      "Questions": "In laser printing operation, does higher-end machines use a positively charged transfer roller?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 24,
-      "Questions": "In laser printing operation, we get a bad quality text if we haven't done the cleaning process?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 25,
-      "Questions": "In laser printers, Monochrome printers only use one laser scanner assembly, color printers often have two or more?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 26,
-      "Questions": "In laser printers, Color printing makes printing process harder?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 27,
-      "Questions": "In laser printers, Color printers usually have a higher cost per page than monochrome printers?",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 28,
-      "Questions": "Which one of the following produces higher quality text on plain paper:",
-      "A": "A)Inkjet printer",
-      "B": "B)Solvent ink printer",
-      "C": "C)Laser printer",
-      "D": "D)Aqueous ink printer",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 29,
-      "Questions": "Which one of the following produces ruined text on plain paper",
-      "A": "A)Aqueous ink printer",
-      "B": "B)Inkjet printer",
-      "C": "C)All of the above",
-      "D": "D)None of the above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 30,
-      "Questions": "What is the purpose of the Discharge lamp?",
-      "A": "A)To charge the paper with positive voltage",
-      "B": "B)To Transfer the negative electrostatic charges to the paper.",
-      "C": "C)To remove the remaining charge from the photoreceptor.",
-      "D": "D)To charge the photoreceptor with positive voltage",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 31,
-      "Questions": "How many processes on xerography approach",
-      "A": "A)5",
-      "B": "B)6",
-      "C": "C)7",
-      "D": "D)8",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 32,
-      "Questions": "In EL display, the matrix of phosphor elements is sandwiched between ......................",
-      "A": "A)Two dielectric layers",
-      "B": "B)Two conductive layers",
-      "C": "C)One conductive",
-      "D": "D)Layer and one dielectric layer",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 33,
-      "Questions": "The EL wire component that is chemically dyed to produce a vast array of colors is.............................. .",
-      "A": "A)Phosphor lubricant",
-      "B": "B)inner PVC sleeve",
-      "C": "C)Outer PVC sleeve",
-      "D": "D)thin copper wires",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 34,
-      "Questions": "Which of the following is a/an Disadvantage of Electroluminescence (EL) ?",
-      "A": "A)High operating voltage ( 60-600 volt ).",
-      "B": "B)Wide viewing angle.",
-      "C": "C)Visibility under sunlight",
-      "D": "D) High resolution.",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 35,
-      "Questions": "Which of the following is a/an Advantage of Electroluminescence (EL) ?",
-      "A": "A)Greater power consumption",
-      "B": "B)Inadequate brightness and chromaticity.",
-      "C": "C)Low operating temperature.",
-      "D": "D)The organic phosphor materials used have a very limited life span.",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 36,
-      "Questions": "How much is the efficiency of El?",
-      "A": "A)0.75",
-      "B": "B)0.8",
-      "C": "C)0.65",
-      "D": "D)0.5",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 37,
-      "Questions": "The Advantage/s of Head-Up displays (HUD) application is/are ...............",
-      "A": "A)Minimize driver's eye movement",
-      "B": "B)Visibility under sunlight.",
-      "C": "C)A and B are true.",
-      "D": "D)None of the above.",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 38,
-      "Questions": "El display consist of a matrix of .....",
-      "A": "A)pixels",
-      "B": "B)electrodes",
-      "C": "C)Cell",
-      "D": "D)none",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 39,
-      "Questions": "The display is viewed through the............",
-      "A": "A)glass substrate",
-      "B": "B)LCD panels",
-      "C": "C)ITO glass",
-      "D": "D)none",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 40,
-      "Questions": "With no voltage across the electrodes the pixel appears........",
-      "A": "A)white",
-      "B": "B)transparent",
-      "C": "C)black",
-      "D": "D)none",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 41,
-      "Questions": "As an example of Electroluminescent application..",
-      "A": "A)Liquid crystal display",
-      "B": "B)Night lamps",
-      "C": "C)Head Up display",
-      "D": "D)All of the above",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 42,
-      "Questions": "The ......................... generates the row and column address signals required for pixel matrix multiplexing in graphic displays",
-      "A": "A)MUX",
-      "B": "B)RAM",
-      "C": "C)Microprocessor",
-      "D": "D)Archived Memory",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 43,
-      "Questions": "Color-TFT(thin-film transistor) liquid crystal displays are used to display the .................................... Values.",
-      "A": "A)Output",
-      "B": "B)Measured",
-      "C": "C)Input",
-      "D": "D)A & B",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 44,
-      "Questions": "What are Advantages of paperless recorders",
-      "A": "A)Reduces non-compliances",
-      "B": "B)Improves Process Quality",
-      "C": "C)Archiving Savings",
-      "D": "D)All of the above",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 45,
-      "Questions": "What are disadvantages of paperless recorders",
-      "A": "A)Training Costs",
-      "B": "B)Health Concerns",
-      "C": "C)IT Expertise Required",
-      "D": "D)All of the above",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 46,
-      "Questions": "Paperless recorder sets up scheduled uploads of recorded data and can export it to excel.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 47,
-      "Questions": "Paperless Recorder stores data in RAM.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 48,
-      "Questions": "In Paperless recorder the input measurement signals are output to a multiplexer",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 49,
-      "Questions": "Paperless Recorder has a LED screen.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 50,
-      "Questions": "The selected signal is converted into parallel digital form by an analogue-to-digital converter for input of microprocessor",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 51,
-      "Questions": "what is The pen positioning accuracy of Analog Recorder....................",
-      "A": "A)±0.2%",
-      "B": "B)±0.8%",
-      "C": "C)±0.5%",
-      "D": "D)None of the above",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 52,
-      "Questions": "Which of the following is a type of Circular Chart Recorders...............",
-      "A": "A)Pneumatic",
-      "B": "B)Electrical",
-      "C": "C)Both a & b",
-      "D": "D)None of the above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 53,
-      "Questions": "what is Input range variable of X Y chart Recorder ................. Pneumatic",
-      "A": "A)0 V/cm to 10 V/cm",
-      "B": "B)0.5 V/cm to 15 V/cm",
-      "C": "C)0.25 V/cm to 10 V/cm",
-      "D": "D)None of the above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 54,
-      "Questions": "which of the following is advantage of XY chart Recorder .................",
-      "A": "A)They will be able to draw grids and axis.",
-      "B": "B)Multi-pen Multi Ink plotting is possible.",
-      "C": "C)All of the Above",
-      "D": "D)None of the above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 55,
-      "Questions": "which of the following is advantage of Chart Recorder .................",
-      "A": "A)easy to replace charts and makers",
-      "B": "B)No sections of the paper can be torn off and archived",
-      "C": "C)All of the Above",
-      "D": "D)None of the above",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 56,
-      "Questions": "which of the following is Disadvantage of Chart Recorder .................",
-      "A": "A)sections of the paper can be torn off and archived",
-      "B": "B)Data cannot be analyzed directly from paper",
-      "C": "C)easy to replace charts and makers",
-      "D": "D)None of the above",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 57,
-      "Questions": "What are the factors to consider when choosing the right chart recorder? .................",
-      "A": "A)Numbers of inputs that must be recorded",
-      "B": "B)The type of interface necessary for your communications.",
-      "C": "C)Both a & b",
-      "D": "D)None of the above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 58,
-      "Questions": "Which of these devices is more efficient in measuring?",
-      "A": "A)Siphon recorder",
-      "B": "B)data logger",
-      "C": "C)Circular Chart Recorder",
-      "D": "D)Strip Chart Recorder",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 59,
-      "Questions": "Paperless recorders are very huge with heavy weights.",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 60,
-      "Questions": "What determines light intensity in a CRT?",
-      "A": "A)voltage",
-      "B": "B)current",
-      "C": "C)momentum of electrons",
-      "D": "D)fluorescent screen",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 61,
-      "Questions": "Vertical deflection is given by ________",
-      "A": "A)y = Ky",
-      "B": "B)y = Vy",
-      "C": "C)y = 1",
-      "D": "D)y = Ky Vy",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 62,
-      "Questions": "Sometimes it is difficult to exchange a highly accelerated beam called",
-      "A": "A)post deflect acceleration",
-      "B": "B)Hard beam",
-      "C": "C)Mono accelerating tube",
-      "D": "D)nan",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 63,
-      "Questions": "This voltage is usually less than 4 kV and this output value gives _____ sensitivit and _______ brightness",
-      "A": "A)Less , increase",
-      "B": "B)Better , reduce",
-      "C": "C)better , increase",
-      "D": "D)Less , reduce",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 64,
-      "Questions": "............... is The smallest part of a picture .",
-      "A": "A)Bit",
-      "B": "B)Pixel",
-      "C": "C)Byte",
-      "D": "D)Frame",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 65,
-      "Questions": "In raster display system ,The frame array represents ............",
-      "A": "A)Lines which will be drawn",
-      "B": "B)video history",
-      "C": "C)all screen pixels",
-      "D": "D)none of above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 66,
-      "Questions": "The main major of display-processor is ...........",
-      "A": "A)store the picture data",
-      "B": "B)transport picture data",
-      "C": "C)transform pictures to pixels",
-      "D": "D)none of above",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 67,
-      "Questions": "which technique is used when the beam reaches the end of a row ?",
-      "A": "A)Horizontal retrace",
-      "B": "B)Vertical retrace",
-      "C": "C)diagonal retrace",
-      "D": "D)none of above",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 68,
-      "Questions": "The main function of electron gun is ....................",
-      "A": "A)Accelerating electron beam",
-      "B": "B)Focusing electron beam",
-      "C": "C)Both of a and b",
-      "D": "D)None of them",
-      "Answer": "C"
-    },
-    {
-      "FIELD1": 69,
-      "Questions": "For getting the high emission of electrons the voltage and current should be ............",
-      "A": "A)1000 mA and 10 V",
-      "B": "B)600 mA and 6.3 V",
-      "C": "C)100mA and 8 V",
-      "D": "D)None of them",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 70,
-      "Questions": "The electron gun consists of ...............",
-      "A": "A)Heater",
-      "B": "B)Cathode",
-      "C": "C)Accelerating and focusing anodes",
-      "D": "D)All of them",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 71,
-      "Questions": "The grid which controls the flow of electrons has ............",
-      "A": "A)Negative Biasing",
-      "B": "B)Positive Biasing",
-      "C": "C)No Biasing",
-      "D": "D)None of them",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 72,
-      "Questions": "Data presentation element : is the ...... in the measurement system",
-      "A": "A)initial element",
-      "B": "B)final element",
-      "C": "C)non-element",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 73,
-      "Questions": "Its function is to communicate the measured value of the variable to.....",
-      "A": "A)human observer",
-      "B": "B)machine",
-      "C": "C)instrument",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 74,
-      "Questions": "It’s important that the measured value is presented as…. as possible",
-      "A": "A)complex",
-      "B": "B)clearly and easily",
-      "C": "C)invisible",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 75,
-      "Questions": "Measurement System Error = Measured value - True value",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "E": "",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 76,
-      "Questions": "Observation Error = Observed Error - Measured Error",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "E": "",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 77,
-      "Questions": "Total Error = Observed Error - True value",
-      "A": "A)True",
-      "B": "B)False",
-      "C": "C)nan",
-      "D": "D)nan",
-      "E": "",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 78,
-      "Questions": ".what of the following is not a factor of Observation error",
-      "A": "A)Distance",
-      "B": "B)ambient lighting",
-      "C": "C)skill of observer",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "D"
-    },
-    {
-      "FIELD1": 79,
-      "Questions": "......in which the scale doesn’t move with the pointer",
-      "A": "A)Fixed scale indicators",
-      "B": "B)Movable scale indicators",
-      "C": "C)all of the above",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "A"
-    },
-    {
-      "FIELD1": 80,
-      "Questions": "...... in which the scale moves with the change of the input but the pointer remains constant.",
-      "A": "A)Fixed scale indicators",
-      "B": "B)Movable scale indicators",
-      "C": "C)all of the above",
-      "D": "D)none of the above",
-      "E": "",
-      "Answer": "B"
-    },
-    {
-      "FIELD1": 81,
-      "Questions": "Examples of non-obvious sources of data are:",
-      "A": "A)areal cover",
-      "B": "B)map scale",
-      "C": "C)numerical error",
-      "D": "D)format",
-      "E": "",
-      "Answer": "C"
-    }
-   ]
+  {
+    "FIELD1": 0,
+    "Questions": "Liquid crystal displays (LCDs) are widely used in a range of electronic systems. Which of the following describes the construction of such a display?",
+    "A": "A)Two sheets of conducting material separated by a layer of insulating dielectriC)",
+    "B": "B)Two sheets of polarized glass with a thin layer of oily material sandwiched between them.",
+    "C": "C)a pn junction formed using materials such as gallium arsenide or gallium phosphide.",
+    "D": "D)None of the above.",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 1,
+    "Questions": "Active matrix display uses .......... as a subpixel controller.",
+    "A": "A)Chemical field-effect transistor",
+    "B": "B)Diffusion transistor",
+    "C": "C)Thin film transistor",
+    "D": "D)Spin transistor",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 2,
+    "Questions": "The optical properties of liquid crystals depend on the direction of",
+    "A": "A) Air",
+    "B": "B)Solid",
+    "C": "C)Light",
+    "D": "D)Water",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 3,
+    "Questions": "LCDs operate from a frequency ranges from",
+    "A": "A)10Hz to 60Hz",
+    "B": "B)50Hz to 70Hz",
+    "C": "C)30Hz to 60Hz",
+    "D": "D)None of the Mentioned",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 4,
+    "Questions": "LCDs operate from a voltage ranges from",
+    "A": "A) 3 to 15V",
+    "B": "B)10 to 15V",
+    "C": "C)10V",
+    "D": "D)5V",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 5,
+    "Questions": "By which properties, the orientation of molecules in a layer of liquid crystals can be changed?",
+    "A": "A)Magnetic field",
+    "B": "B)Electric field",
+    "C": "C)Electromagnetic field",
+    "D": "D)None of the Mentioned",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 6,
+    "Questions": "Disadvantage of LCD",
+    "A": "A)high cost",
+    "B": "B)Response time is very low",
+    "C": "C)Provide excellent contrast",
+    "D": "D)None of them",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 7,
+    "Questions": "The LCD show the rectangle as black area when there is no current.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 8,
+    "Questions": "Light can be polarizeD)",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 9,
+    "Questions": "The extent of the change in polarization depends on the intensity of an applied electric fielD)",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 10,
+    "Questions": "LCD has better image quality than LED)",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 11,
+    "Questions": "LED has a better life span than LCD)",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 12,
+    "Questions": "Passive matrix can create a greyscale of 16 color",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 13,
+    "Questions": "Active matrix display has less brightness and contrast than passive matrix display.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 14,
+    "Questions": "Color of the led depends on .......",
+    "A": "A)Fabrication materials",
+    "B": "B)Forward voltage",
+    "C": "C)Forward current",
+    "D": "D)Outer paint",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 15,
+    "Questions": "Which of the following materials canbe used to produce infrared LED?",
+    "A": "A) Si",
+    "B": "B)GaAsP",
+    "C": "C)GaP",
+    "D": "D)b and c",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 16,
+    "Questions": "The amount of light emitted from led isproportional to ......",
+    "A": "A)Forward voltage",
+    "B": "B)Forward Current",
+    "C": "C)Series Current",
+    "D": "D)All of the above",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 17,
+    "Questions": "Which of the following is Not trueregarding the 'Li-fi' network technology?",
+    "A": "A)It is faster than wi-fi",
+    "B": "B)It uses an LED bulb/Lamp",
+    "C": "C)It uses infrared waves",
+    "D": "D)It does not interfere with radio waves",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 18,
+    "Questions": "The Li-fi is more secure than Wi-Fibecause",
+    "A": "A)It's much faster",
+    "B": "B)light is blocked by the walls",
+    "C": "C)Coverage distance is lower than Wi-Fi",
+    "D": "D)All of the above",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 19,
+    "Questions": "OLED display is better than LEDbecause ......",
+    "A": "A)Consume much less power than LCDs",
+    "B": "B)They have high brightness",
+    "C": "C)Do not require any illuminating source",
+    "D": "D)All of the above",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 20,
+    "Questions": ".BCD input 1000 is fed to a 7 segmentdisplay through a BCD to 7 segmentdecoder/driver. The segments which will lit upare .......",
+    "A": "A)a, b, d",
+    "B": "B)a, b, c",
+    "C": "C)all",
+    "D": "D)a, b, g, c, d",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 21,
+    "Questions": "In Common Anode 7-Segment Display,When we want a segment to be 'on' weconnect it to ......",
+    "A": "A)'1' logiC",
+    "B": "B)'0' logic",
+    "C": "C)Can be '0' or '1'",
+    "D": "D)Short circuit.",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 22,
+    "Questions": "In laser printing operation, during the charging process, does the photosensitive is charged with – 600v?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 23,
+    "Questions": "In laser printing operation, does higher-end machines use a positively charged transfer roller?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 24,
+    "Questions": "In laser printing operation, we get a bad quality text if we haven't done the cleaning process?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 25,
+    "Questions": "In laser printers, Monochrome printers only use one laser scanner assembly, color printers often have two or more?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 26,
+    "Questions": "In laser printers, Color printing makes printing process harder?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 27,
+    "Questions": "In laser printers, Color printers usually have a higher cost per page than monochrome printers?",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 28,
+    "Questions": "Which one of the following produces higher quality text on plain paper:",
+    "A": "A)Inkjet printer",
+    "B": "B)Solvent ink printer",
+    "C": "C)Laser printer",
+    "D": "D)Aqueous ink printer",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 29,
+    "Questions": "Which one of the following produces ruined text on plain paper",
+    "A": "A)Aqueous ink printer",
+    "B": "B)Inkjet printer",
+    "C": "C)All of the above",
+    "D": "D)None of the above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 30,
+    "Questions": "What is the purpose of the Discharge lamp?",
+    "A": "A)To charge the paper with positive voltage",
+    "B": "B)To Transfer the negative electrostatic charges to the paper.",
+    "C": "C)To remove the remaining charge from the photoreceptor.",
+    "D": "D)To charge the photoreceptor with positive voltage",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 31,
+    "Questions": "How many processes on xerography approach",
+    "A": "A)5",
+    "B": "B)6",
+    "C": "C)7",
+    "D": "D)8",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 32,
+    "Questions": "In EL display, the matrix of phosphor elements is sandwiched between ......................",
+    "A": "A)Two dielectric layers",
+    "B": "B)Two conductive layers",
+    "C": "C)One conductive",
+    "D": "D)Layer and one dielectric layer",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 33,
+    "Questions": "The EL wire component that is chemically dyed to produce a vast array of colors is.............................. .",
+    "A": "A)Phosphor lubricant",
+    "B": "B)inner PVC sleeve",
+    "C": "C)Outer PVC sleeve",
+    "D": "D)thin copper wires",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 34,
+    "Questions": "Which of the following is a/an Disadvantage of Electroluminescence (EL) ?",
+    "A": "A)High operating voltage ( 60-600 volt ).",
+    "B": "B)Wide viewing angle.",
+    "C": "C)Visibility under sunlight",
+    "D": "D) High resolution.",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 35,
+    "Questions": "Which of the following is a/an Advantage of Electroluminescence (EL) ?",
+    "A": "A)Greater power consumption",
+    "B": "B)Inadequate brightness and chromaticity.",
+    "C": "C)Low operating temperature.",
+    "D": "D)The organic phosphor materials used have a very limited life span.",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 36,
+    "Questions": "How much is the efficiency of El?",
+    "A": "A)0.75",
+    "B": "B)0.8",
+    "C": "C)0.65",
+    "D": "D)0.5",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 37,
+    "Questions": "The Advantage/s of Head-Up displays (HUD) application is/are ...............",
+    "A": "A)Minimize driver's eye movement",
+    "B": "B)Visibility under sunlight.",
+    "C": "C)A and B are true.",
+    "D": "D)None of the above.",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 38,
+    "Questions": "El display consist of a matrix of .....",
+    "A": "A)pixels",
+    "B": "B)electrodes",
+    "C": "C)Cell",
+    "D": "D)none",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 39,
+    "Questions": "The display is viewed through the............",
+    "A": "A)glass substrate",
+    "B": "B)LCD panels",
+    "C": "C)ITO glass",
+    "D": "D)none",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 40,
+    "Questions": "With no voltage across the electrodes the pixel appears........",
+    "A": "A)white",
+    "B": "B)transparent",
+    "C": "C)black",
+    "D": "D)none",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 41,
+    "Questions": "As an example of Electroluminescent application..",
+    "A": "A)Liquid crystal display",
+    "B": "B)Night lamps",
+    "C": "C)Head Up display",
+    "D": "D)All of the above",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 42,
+    "Questions": "The ......................... generates the row and column address signals required for pixel matrix multiplexing in graphic displays",
+    "A": "A)MUX",
+    "B": "B)RAM",
+    "C": "C)Microprocessor",
+    "D": "D)Archived Memory",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 43,
+    "Questions": "Color-TFT(thin-film transistor) liquid crystal displays are used to display the .................................... Values.",
+    "A": "A)Output",
+    "B": "B)Measured",
+    "C": "C)Input",
+    "D": "D)A & B",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 44,
+    "Questions": "What are Advantages of paperless recorders",
+    "A": "A)Reduces non-compliances",
+    "B": "B)Improves Process Quality",
+    "C": "C)Archiving Savings",
+    "D": "D)All of the above",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 45,
+    "Questions": "What are disadvantages of paperless recorders",
+    "A": "A)Training Costs",
+    "B": "B)Health Concerns",
+    "C": "C)IT Expertise Required",
+    "D": "D)All of the above",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 46,
+    "Questions": "Paperless recorder sets up scheduled uploads of recorded data and can export it to excel.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 47,
+    "Questions": "Paperless Recorder stores data in RAM.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 48,
+    "Questions": "In Paperless recorder the input measurement signals are output to a multiplexer",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 49,
+    "Questions": "Paperless Recorder has a LED screen.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 50,
+    "Questions": "The selected signal is converted into parallel digital form by an analogue-to-digital converter for input of microprocessor",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 51,
+    "Questions": "what is The pen positioning accuracy of Analog Recorder....................",
+    "A": "A)±0.2%",
+    "B": "B)±0.8%",
+    "C": "C)±0.5%",
+    "D": "D)None of the above",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 52,
+    "Questions": "Which of the following is a type of Circular Chart Recorders...............",
+    "A": "A)Pneumatic",
+    "B": "B)Electrical",
+    "C": "C)Both a & b",
+    "D": "D)None of the above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 53,
+    "Questions": "what is Input range variable of X Y chart Recorder ................. Pneumatic",
+    "A": "A)0 V/cm to 10 V/cm",
+    "B": "B)0.5 V/cm to 15 V/cm",
+    "C": "C)0.25 V/cm to 10 V/cm",
+    "D": "D)None of the above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 54,
+    "Questions": "which of the following is advantage of XY chart Recorder .................",
+    "A": "A)They will be able to draw grids and axis.",
+    "B": "B)Multi-pen Multi Ink plotting is possible.",
+    "C": "C)All of the Above",
+    "D": "D)None of the above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 55,
+    "Questions": "which of the following is advantage of Chart Recorder .................",
+    "A": "A)easy to replace charts and makers",
+    "B": "B)No sections of the paper can be torn off and archived",
+    "C": "C)All of the Above",
+    "D": "D)None of the above",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 56,
+    "Questions": "which of the following is Disadvantage of Chart Recorder .................",
+    "A": "A)sections of the paper can be torn off and archived",
+    "B": "B)Data cannot be analyzed directly from paper",
+    "C": "C)easy to replace charts and makers",
+    "D": "D)None of the above",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 57,
+    "Questions": "What are the factors to consider when choosing the right chart recorder? .................",
+    "A": "A)Numbers of inputs that must be recorded",
+    "B": "B)The type of interface necessary for your communications.",
+    "C": "C)Both a & b",
+    "D": "D)None of the above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 58,
+    "Questions": "Which of these devices is more efficient in measuring?",
+    "A": "A)Siphon recorder",
+    "B": "B)data logger",
+    "C": "C)Circular Chart Recorder",
+    "D": "D)Strip Chart Recorder",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 59,
+    "Questions": "Paperless recorders are very huge with heavy weights.",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 60,
+    "Questions": "What determines light intensity in a CRT?",
+    "A": "A)voltage",
+    "B": "B)current",
+    "C": "C)momentum of electrons",
+    "D": "D)fluorescent screen",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 61,
+    "Questions": "Vertical deflection is given by ________",
+    "A": "A)y = Ky",
+    "B": "B)y = Vy",
+    "C": "C)y = 1",
+    "D": "D)y = Ky Vy",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 62,
+    "Questions": "Sometimes it is difficult to exchange a highly accelerated beam called",
+    "A": "A)post deflect acceleration",
+    "B": "B)Hard beam",
+    "C": "C)Mono accelerating tube",
+    "D": "D)nan",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 63,
+    "Questions": "This voltage is usually less than 4 kV and this output value gives _____ sensitivit and _______ brightness",
+    "A": "A)Less , increase",
+    "B": "B)Better , reduce",
+    "C": "C)better , increase",
+    "D": "D)Less , reduce",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 64,
+    "Questions": "............... is The smallest part of a picture .",
+    "A": "A)Bit",
+    "B": "B)Pixel",
+    "C": "C)Byte",
+    "D": "D)Frame",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 65,
+    "Questions": "In raster display system ,The frame array represents ............",
+    "A": "A)Lines which will be drawn",
+    "B": "B)video history",
+    "C": "C)all screen pixels",
+    "D": "D)none of above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 66,
+    "Questions": "The main major of display-processor is ...........",
+    "A": "A)store the picture data",
+    "B": "B)transport picture data",
+    "C": "C)transform pictures to pixels",
+    "D": "D)none of above",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 67,
+    "Questions": "which technique is used when the beam reaches the end of a row ?",
+    "A": "A)Horizontal retrace",
+    "B": "B)Vertical retrace",
+    "C": "C)diagonal retrace",
+    "D": "D)none of above",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 68,
+    "Questions": "The main function of electron gun is ....................",
+    "A": "A)Accelerating electron beam",
+    "B": "B)Focusing electron beam",
+    "C": "C)Both of a and b",
+    "D": "D)None of them",
+    "Answer": "C"
+  },
+  {
+    "FIELD1": 69,
+    "Questions": "For getting the high emission of electrons the voltage and current should be ............",
+    "A": "A)1000 mA and 10 V",
+    "B": "B)600 mA and 6.3 V",
+    "C": "C)100mA and 8 V",
+    "D": "D)None of them",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 70,
+    "Questions": "The electron gun consists of ...............",
+    "A": "A)Heater",
+    "B": "B)Cathode",
+    "C": "C)Accelerating and focusing anodes",
+    "D": "D)All of them",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 71,
+    "Questions": "The grid which controls the flow of electrons has ............",
+    "A": "A)Negative Biasing",
+    "B": "B)Positive Biasing",
+    "C": "C)No Biasing",
+    "D": "D)None of them",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 72,
+    "Questions": "Data presentation element : is the ...... in the measurement system",
+    "A": "A)initial element",
+    "B": "B)final element",
+    "C": "C)non-element",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 73,
+    "Questions": "Its function is to communicate the measured value of the variable to.....",
+    "A": "A)human observer",
+    "B": "B)machine",
+    "C": "C)instrument",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 74,
+    "Questions": "It’s important that the measured value is presented as…. as possible",
+    "A": "A)complex",
+    "B": "B)clearly and easily",
+    "C": "C)invisible",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 75,
+    "Questions": "Measurement System Error = Measured value - True value",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "E": "",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 76,
+    "Questions": "Observation Error = Observed Error - Measured Error",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "E": "",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 77,
+    "Questions": "Total Error = Observed Error - True value",
+    "A": "A)True",
+    "B": "B)False",
+    "C": "C)nan",
+    "D": "D)nan",
+    "E": "",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 78,
+    "Questions": ".what of the following is not a factor of Observation error",
+    "A": "A)Distance",
+    "B": "B)ambient lighting",
+    "C": "C)skill of observer",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "D"
+  },
+  {
+    "FIELD1": 79,
+    "Questions": "......in which the scale doesn’t move with the pointer",
+    "A": "A)Fixed scale indicators",
+    "B": "B)Movable scale indicators",
+    "C": "C)all of the above",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "A"
+  },
+  {
+    "FIELD1": 80,
+    "Questions": "...... in which the scale moves with the change of the input but the pointer remains constant.",
+    "A": "A)Fixed scale indicators",
+    "B": "B)Movable scale indicators",
+    "C": "C)all of the above",
+    "D": "D)none of the above",
+    "E": "",
+    "Answer": "B"
+  },
+  {
+    "FIELD1": 81,
+    "Questions": "Examples of non-obvious sources of data are:",
+    "A": "A)areal cover",
+    "B": "B)map scale",
+    "C": "C)numerical error",
+    "D": "D)format",
+    "E": "",
+    "Answer": "C"
+  }
+ ]
