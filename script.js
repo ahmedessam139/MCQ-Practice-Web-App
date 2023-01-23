@@ -124,6 +124,7 @@ $(document).ready(function () {
     
   }
   $("#end-button").click(displayWrongQuestions)
+ 
 
 });
 
