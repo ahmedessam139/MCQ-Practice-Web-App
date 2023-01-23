@@ -6,36 +6,11 @@ $(document).ready(function () {
   var displayedQuestions = [];
   var randomIndex = 0;
   var questionNum = 0;
-  var jsonFile = "fr1.json"; 
+  var jsonFile = "qs.json";
   $.getJSON(jsonFile, function (data) {
-      questionsData = data;
-      totalQuestions = questionsData.length;
-      displayQuestion();
-  });
-  $("#qs-button").click(function () {
-      jsonFile = "fr1.json";
-      // Reload the JSON data with new path
-      $.getJSON(jsonFile, function (data) {
-          questionsData = data;
-          totalQuestions = questionsData.length;
-          displayedQuestions = [];
-          randomIndex = 0;
-          questionNum = 0;
-          wrongCounter = 0;
-          displayQuestion();
-      });
-  });
-  $("#G-button").click(function () {
-      jsonFile = "5G.json";
-      $.getJSON(jsonFile, function (data) {
-          questionsData = data;
-          totalQuestions = questionsData.length;
-          displayedQuestions = [];
-          randomIndex = 0;
-          questionNum = 0;
-          wrongCounter = 0;
-          displayQuestion();
-      });
+    questionsData = data;
+    totalQuestions = questionsData.length;
+    displayQuestion();
   });
   function displayQuestion() {
     randomIndex = Math.floor(Math.random() * totalQuestions);
@@ -52,9 +27,7 @@ $(document).ready(function () {
     $("#result").html("");
     $("#counter1").html("Question:" + (questionNum + 1));
     $("#counter").html("Your score is: " + (questionNum - wrongCounter) + " out of " + totalQuestions);
-
   }
-
   $("#submit-button").click(function () {
     var selectedAnswer = $(".answer input:checked");
     if (selectedAnswer.length) {
@@ -81,13 +54,11 @@ $(document).ready(function () {
       $("#result").css("color", "blue");
     }
   });
-
   $(".answer input").change(function () {
     if (this.checked) {
       $(".answer input").not(this).prop("checked", false)
     }
   });
-
 });
 
 
