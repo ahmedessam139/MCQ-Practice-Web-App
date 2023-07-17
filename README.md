@@ -9,7 +9,7 @@ This is my first web application designed to help me and my classmates practice 
 
 <div align="center">
   <img src="demo.gif" alt="Live Demo" />
-</div>  
+</div>   
 
 
 You can access a live demo of the app [Here](https://ahmedessam139.github.io/MCQ_Test).
